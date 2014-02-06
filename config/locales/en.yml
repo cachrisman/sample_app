@@ -21,3 +21,13 @@
 
 en:
   hello: "Hello world"
+
+shared:
+  # ...
+  micropost_form:
+    characters_remaining:
+      one: "%{count} character remaining."
+      other: "%{count} characters remaining."
+    characters_over:
+      one: "%{count} character over limit."
+      other: "%{count} characters over limit."
